@@ -1,0 +1,1 @@
+This is a simple chat app. Run it in your local computer by running "npm run dev" command which will start the server and client concurrently.
